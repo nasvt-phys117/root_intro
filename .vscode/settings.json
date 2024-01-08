@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "MyClass.C": "cpp",
-        "ph_simple.C": "cpp",
-        "print_histos_2.C": "cpp",
-        "print_histos.C": "cpp",
-        "signal_class_V2.C": "cpp"
-    }
-}
